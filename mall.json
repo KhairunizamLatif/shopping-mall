@@ -1,0 +1,94 @@
+[
+  {
+    "id":111,
+    "name":"Viva Shopping Mall",
+    "latitude": 3.123119,
+    "longitude": 101.719234,
+    "address": "85, Jalan Loke Yew, Taman Miharja, 55200 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "contact":"03-92811998",
+    "hour":"Friday - Thursday = 10 Am - 10 Pm"
+
+  },
+  {
+    "id":112,
+    "name":"MyTown Shopping Centre",
+    "latitude": 3.134746,
+    "longitude": 101.723037,
+    "address": "Seksyen, 90, Jalan Cochrane, Cheras, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "contact":"03-27100057",
+    "hour":"Friday - Thursday = 10 Am - 10 Pm"
+
+  },
+  {
+    "id":113,
+    "name":"Sunway Velocity Mall",
+    "latitude": 3.127468,
+    "longitude": 101.724508,
+    "address": "Lingkaran SV, Sunway Velocity, Jalan Cheras, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "contact":"03-2786 3970",
+    "hour": "Friday - Thursday = 10 Am - 10 Pm"
+  },
+  {
+    "id":114,
+    "name":"Berjaya Times Square",
+    "latitude": 3.142200,
+    "longitude": 101.710619,
+    "address": "Lot01-26,01-27,01-28,01-29 &01-29A 1st Floor, Berjaya Times Square, No1, Jalan Imbi, 55100 Kuala Lumpur",
+    "contact":"603 2117 3118",
+    "hour": "Friday - Thursday = 10 Am - 10 Pm"
+  },
+  {
+    "id":115,
+    "name":"Mid Valley Megamall",
+    "latitude": 3.117699,
+    "longitude": 101.677478,
+    "address": "Mid Valley Megamall, Mid Valley City, 58000 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "contact":"603 2938 3333",
+    "hour":"Friday - Thursday = 10 Am - 10 Pm"
+  },
+  {
+    "id":116,
+    "name":"IKEA Cheras",
+    "latitude": 3.135154,
+    "longitude": 101.721189,
+    "address": "2A, Jalan Cochrane, Maluri, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "contact":"03-7952 7575",
+    "hour":"Friday - Thursday = 10 Am - 10 Pm"
+  },
+  {
+    "id":117,
+    "name":"Sogo Kuala lumpur",
+    "latitude": 3.156181,
+    "longitude": 101.695380,
+    "address": "190, Jalan Tuanku Abdul Rahman, City Centre, 50100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "contact":"1-300-88-7646",
+    "hour":"Friday - Thursday = 10 Am - 10 Pm"
+  },
+  {
+    "id":118,
+    "name":"Suria KlCC",
+    "latitude": 3.157951,
+    "longitude": 101.711623,
+    "address": "lot 241, 13th floor, Kuala Lumpur City Centre, 50088 Kuala Lumpur",
+    "contact":"03-2382 2828",
+    "hour":"Friday - Thursday = 10 Am - 10 Pm"
+  },
+  {
+    "id":119,
+    "name":"Quill City Mall",
+    "latitude": 3.159867,
+    "longitude": 101.700055,
+    "address": "1018, Jalan Sultan Ismail, Bandar Wawasan, 55100 Kuala Lumpur, Wilayah Persekutuan Kuala Lumpur",
+    "contact":"03-2603 1018",
+    "hour":"Friday - Thursday = 10 Am - 10 Pm"
+  },
+  {
+    "id":120,
+    "name":"Palm Mall",
+    "latitude": 2.719921,
+    "longitude": 101.922982,
+    "address": "Kemayan Square, 70200 Seremban, Negeri Sembilan",
+    "contact":"6067656073",
+    "hour":"Friday - Thursday = 10 Am - 10 Pm"
+  }
+]
